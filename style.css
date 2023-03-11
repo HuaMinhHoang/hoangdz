@@ -1,0 +1,18 @@
+.trai{
+    text-align: left;
+}
+ol li:first-child::first-letter{
+    color:blue;
+    font-size: 25px
+}
+ol li:nth-child(2)::first-letter{
+    color:blue;
+    font-size: 25px
+}
+ol li:nth-child(3)::first-letter{
+    color:blue;
+    font-size: 25px
+}
+ol:first-child{
+    color:rgb(219, 107, 111);
+}
